@@ -20,5 +20,7 @@ Database: MySQL (Install XAMPP)
 
 # Technologies Used:
 Java Swing/AWT: For GUI design and development.
+
 MySQL: For database management and operations.
+
 JDBC: For connecting Java applications with the MySQL database.
